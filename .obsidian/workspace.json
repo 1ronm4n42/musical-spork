@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Loffinlot/places/Untitled 4.md",
+                "file": "1 Loffinlot/places/Cathedral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 4"
+              "title": "Cathedral"
             }
           }
         ]
@@ -191,18 +191,25 @@
   },
   "active": "09e1c22340d34997",
   "lastOpenFiles": [
-    "1 Loffinlot/places/Hendrickson's towr.md",
-    "1 Loffinlot/places/Cathedral.md",
-    "1 Loffinlot/places/Mayor's Office.md",
-    "1 Loffinlot/places/Earl's Tavern o' Inn.md",
-    "1 Loffinlot/places/Untitled 4.md",
-    "1 Loffinlot/characters/7 Nicklaus Hendrickson.md",
-    "1 Loffinlot/characters/6 David Klien.md",
-    "1 Loffinlot/characters/5 Martha Klien.md",
-    "1 Loffinlot/characters/4 James Booker.md",
-    "1 Loffinlot/characters/2 Amanda Rin.md",
-    "1 Loffinlot/characters/3 Rolan Loffin.md",
+    "1 Loffinlot/characters/6 David Klein.md",
+    "1 Loffinlot/characters/5 Martha Klein.md",
+    "1 Loffinlot/Walkthrough 1.md",
     "1 Loffinlot/characters/1 Old Man Earl.md",
+    "1 Loffinlot/characters/4 James Booker.md",
+    "1 Loffinlot/characters/3 Rolan Loffin.md",
+    "1 Loffinlot/characters/2 Amanda Rin.md",
+    "1 Loffinlot/characters/7 Nicklaus Hendrickson.md",
+    "1 Loffinlot/places/Hendrickson's towr.md",
+    "1 Loffinlot/places/Earl's Tavern o' Inn.md",
+    "1 Loffinlot/places/Mayor's Office.md",
+    "1 Loffinlot/places/Shipbuilding Hut.md",
+    "1 Loffinlot/places/Cathedral.md",
+    "Pasted image 20260812215152.png",
+    "Pasted image 20260812215116.png",
+    "Pasted image 20260812215058.png",
+    "Pasted image 20260812215036.png",
+    "Pasted image 20260812215008.png",
+    "Pasted image 20260812215001.png",
     "9 Wano/Walkthrough 9.md",
     "3 Little Garden/places 3",
     "places 3.md",
@@ -213,7 +220,6 @@
     "4 Old Drum Kingdom/Walkthrough 4.md",
     "3 Little Garden/Walkthrough 3.md",
     "2 Arlong Park/Walkthrough 2.md",
-    "1 Loffinlot/Walkthrough 1.md",
     "Untitled.base",
     "OVERARCHING.md",
     "Untitled.canvas",
@@ -226,7 +232,6 @@
     "2 Arlong Park/places 2",
     "3 Little Garden/places 2",
     "9 Wano.md",
-    "4 Old Drum Kingdom.md",
-    "1 Loffinlot.md"
+    "4 Old Drum Kingdom.md"
   ]
 }
