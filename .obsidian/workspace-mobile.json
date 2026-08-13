@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9 Wano/Walkthrough 9.md",
+                "file": "1 Loffinlot/characters/5 Martha Klein.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Walkthrough 9"
+              "title": "5 Martha Klein"
             }
           }
         ],
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "9 Wano/Walkthrough 9.md",
+            "file": "1 Loffinlot/characters/5 Martha Klein.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -205,13 +205,16 @@
   },
   "active": "3b52000c9394db90",
   "lastOpenFiles": [
+    "1 Loffinlot/characters/4 James Booker.md",
+    "1 Loffinlot/characters/5 Martha Klein.md",
+    "1 Loffinlot/characters/6 David Klein.md",
+    "1 Loffinlot/places/Cathedral.md",
+    "9 Wano/Walkthrough 9.md",
     "conflict-files-obsidian-git.md",
     "OVERARCHING.md",
-    "9 Wano/Walkthrough 9.md",
     "List for tomorrow.md",
     "so this horse right..md",
     "So this other horse right..md",
-    "1 Loffinlot/places/Cathedral.md",
     "Untitled"
   ]
 }
