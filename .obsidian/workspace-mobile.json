@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Loffinlot/places/Cathedral.md",
+                "file": "1 Loffinlot/places/Mayor's Office.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cathedral"
+              "title": "Mayor's Office"
             }
           }
         ],
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 Loffinlot/places/Cathedral.md",
+            "file": "1 Loffinlot/places/Mayor's Office.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -205,13 +205,14 @@
   },
   "active": "3b52000c9394db90",
   "lastOpenFiles": [
+    "1 Loffinlot/places/Earl's Tavern o' Inn.md",
+    "1 Loffinlot/places/Cathedral.md",
     "1 Loffinlot/characters/6 David Klein.md",
     "1 Loffinlot/characters/7 Nicklaus Hendrickson.md",
     "1 Loffinlot/places/Hendrickson's towr.md",
     "9 Wano/Walkthrough 9.md",
     "1 Loffinlot/characters/5 Martha Klein.md",
     "1 Loffinlot/characters/4 James Booker.md",
-    "1 Loffinlot/places/Cathedral.md",
     "conflict-files-obsidian-git.md",
     "OVERARCHING.md",
     "List for tomorrow.md",
