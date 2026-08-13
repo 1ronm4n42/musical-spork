@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Walkthrough 9"
             }
+          },
+          {
+            "id": "cfc40a14784ab24a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "so this horse right..md",
+            "file": "conflict-files-obsidian-git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,13 +217,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b52000c9394db90",
+  "active": "cfc40a14784ab24a",
   "lastOpenFiles": [
     "OVERARCHING.md",
-    "1 Loffinlot/places/Cathedral.md",
+    "9 Wano/Walkthrough 9.md",
+    "conflict-files-obsidian-git.md",
+    "List for tomorrow.md",
     "so this horse right..md",
     "So this other horse right..md",
-    "List for tomorrow.md",
+    "1 Loffinlot/places/Cathedral.md",
     "Untitled"
   ]
 }

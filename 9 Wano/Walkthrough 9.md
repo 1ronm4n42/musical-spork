@@ -31,7 +31,6 @@ What's he trying to say?
 - Your journey is awfuly like a book
 - I'd read it. I'd write it. I did.
 - For the simpletons in the back you're trapped in this story. Your body fuels me in the real world.
-- Ta
 
 How to suggest their ending is only the book's ending
 Environmental!
