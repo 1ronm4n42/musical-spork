@@ -13,4 +13,5 @@ How will you foster community in School of Rock as a House Band member?
 - If someone needs instruction on a part I would (Probably) be the first to offer advice if it is welcome.
 
 Why do you want to be in house band?
-	I have had two years in house band and I really want to continue growing musically with these people I have had the pleasure of getting to know. 
+	I have had two years in house band and I really want to continue growing musically with these people I have had the pleasure of getting to know. The seniors leaving creates a large space for fresh faces. Seeing them mature and guiding them through next year i could consider repayment for the mentorship i have received over these last two years
+How will you foster community at School of Rock?
