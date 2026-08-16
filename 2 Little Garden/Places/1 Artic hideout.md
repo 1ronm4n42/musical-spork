@@ -1,0 +1,1 @@
+If they decide to peep the giant skeletons a cave entrance leads down to the 

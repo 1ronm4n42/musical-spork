@@ -17,4 +17,4 @@ Why do you want to be in house band?
 	
 
 How will you foster community at School of Rock?
-	I will foster community by offering advice during rehearsals if it's welcome. Since people look up to the house band I would approach things with a positive attitude and be the change I would like to see within house band. I would first come to an adult if an issue appeared. With the rock 101 
+	I will foster community by offering advice during rehearsals if it's welcome. Since people look up to the house band I would approach things with a positive attitude and be the change I would like to see within house band. I would first come to an adult if an issue appeared. When it comes to the 101 kids i would congradulate them on their achivements honestly beause that is how i would want to be treated if i was their age in this program.
