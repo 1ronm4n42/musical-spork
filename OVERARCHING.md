@@ -14,10 +14,10 @@
 		 sq4 Finding reason for islands overflowing
 4 Old drum kingdom
 	MQFind cure to PC's disease
-		sq1
-		sq2
-		sq3
-		sq4
+		sq1 Go to Wapol castle
+		sq2 Go to witch doctor's house
+		sq3 Go to Blossom forest
+		sq4 Cure fever.
 5 Thriller
 	MQ Explore the island's respite
 		sq1 Town of desires' attractions
@@ -28,8 +28,8 @@
 	MQ get inside the HQ party
 		sq1 Theives chicken chase
 		sq2 Obtain disguises
-		sq3 
-		sq4 Find the Simon sheet
+		sq3 Find the Simon sheet
+		sq4 Prep Simon sheet
 		sq5 Steal special blueprints
 		SSQ1 Steal employment sheet
 7 Fishman Island / HEX
