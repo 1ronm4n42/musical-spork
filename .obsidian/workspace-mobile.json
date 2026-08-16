@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Loffinlot/Walkthrough 1.md",
+                "file": "OVERARCHING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Walkthrough 1"
+              "title": "OVERARCHING"
             }
           }
         ],
@@ -205,6 +205,8 @@
   },
   "active": "3b52000c9394db90",
   "lastOpenFiles": [
+    "6 W7/Places/Ball.md",
+    "1 Loffinlot/Walkthrough 1.md",
     "8 Real Machina/Walkthrough 8.md",
     "7 FMI or HEX/Walkthrough 7.md",
     "5 Thriller/Walkthrough 5.md",
@@ -218,7 +220,6 @@
     "8 Real Machina/Places",
     "8 Real Machina/Characters",
     "7 FMI or HEX/Characters/Examiner.md",
-    "6 W7/Places/Ball.md",
     "7 FMI or HEX/Places",
     "7 FMI or HEX/Characters",
     "6 W7/Characters/Artic works list.md",
@@ -239,7 +240,6 @@
     "3 Little Garden/Walkthrough 3.md",
     "2 Arlong Park/Walkthrough 2.md",
     "1 Loffinlot/places/Mayor's Office.md",
-    "1 Loffinlot/places/Earl's Tavern o' Inn.md",
-    "1 Loffinlot/places/Cathedral.md"
+    "1 Loffinlot/places/Earl's Tavern o' Inn.md"
   ]
 }
