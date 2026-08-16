@@ -1,0 +1,1 @@
+ Get random spell affected immediately. Or saved for later.

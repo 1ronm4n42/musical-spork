@@ -22,11 +22,11 @@ Prison escape (72 hours to reach bottom of tower)
 Papa opponent Physical fight (Scared into playing dead.)
 Mommy opponent Bet person hooded. 50 hours each. 
 Shortstack Opponent. Serial arsonist dumps gasoline on the ground. Holds candle. 
-Bugwhere opponent
+Bugwhere opponent Physical fight but opponent only has one spell arcane gate bludgeoning Bugwhere to death.
 Klinx (tbd)
 Quiz with shocks.
-
+Double memory against a separate team with only one person
 
 Fourth trial
 One on one battles.
-if someone kills another or interferes they lose the battle.
+if someone kills another or interferes they lose the battle. Everyone else passes.
