@@ -65,4 +65,4 @@ Once three favors are passed one must repay the debt. Ali explains Nicklaus rule
 Sets off with new mission and healed friend.
 
 Thriller park
-At admission line Nicklaus can be seen in distance everywhere while exploring. Gecko Harvests souls behind the scene 
+At admission line Nicklaus can be seen in distance everywhere while exploring. Gecko Harvests souls behind the scene.
