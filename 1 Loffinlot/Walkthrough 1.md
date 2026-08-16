@@ -78,7 +78,7 @@ Against the mayor and people of the office if won Booker learns Deal with Nickla
 
 avoid encounter
 
-Orange seller tells about Nicklaus house. Suspicions of cure on town.
+Orange seller tells about Nicklaus house. Suspicions of curse on town.
 
   
 
@@ -122,7 +122,7 @@ Takes path of finding witch and killing her. Happens at thriller.
 
   
 
-If someone attacks Nicklaus he suicide bombs in 2 turns. Dmg sponge. If deal isnt made before the attack, He lets the next person inside, Next very short tempered. Once deal is made the building vanishes.
+If someone attacks Nicklaus he truthfully fights them. Dmg sponge. If deal isnt made before the attack, He lets the next person inside, Next very short tempered. Once deal is made the building vanishes.
 
   
 
@@ -131,7 +131,7 @@ One leaves with a mark. Of some kind.
   
 
 If none make deal Town is kept under curse. Nicklaus laughs in their faces. “How boring. I might have to drop you..”
-
+No suspense no intrigue? Doesn’t make a good story. 
   
 
 They make their own boat
