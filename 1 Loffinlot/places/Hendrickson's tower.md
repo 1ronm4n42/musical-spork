@@ -25,7 +25,7 @@ Other she suggests fitting punishment
 
 Bugwhere 
 
-Promise of reversion.
+Promise of reversion. A way back to the way one was before
 Promise of prowess. +2 in one ability score.
 Promise of history. +6 to any history checks
 

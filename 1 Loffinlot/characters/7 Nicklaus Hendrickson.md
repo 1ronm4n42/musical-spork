@@ -8,7 +8,7 @@ Clown Hisoka Like.
 Buisness man Suit and tie.
 True form Later
 
-150 HP 18d6
+? A lot of hp 18d6
 
 Stat block
 STR 2  -4
@@ -18,7 +18,7 @@ Con 18 +4
 Dex  10 -0
 Cha 22 +6
 
-Spells cast with plausability. 
+Spells cast with plausability points. 
 
 - Every time Nicklaus uses his wish attribute change ("Retcon") **Earthquake/Eraser rubbing.**
 - Nicklaus "Next page" **paper riffles** removes player's bonus action.
@@ -29,4 +29,4 @@ Spells cast with plausability.
 - Nicklaus "Motif" Copies a character's last action.
 - Nicklaus "Red herring" Increase AC by dodging +10
 - Nicklaus "Trope" Stores last action preforms it again next turn. 
-- Nicklaus "Bechdel" Freezes all women **boos in the background**
+- Nicklaus "Bechdel" Freezes Mommy Shortstack and...  bugwhere?
