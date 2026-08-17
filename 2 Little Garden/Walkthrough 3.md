@@ -14,4 +14,7 @@ Wano ------
 
 To skip the wait please dial 73-22 on nearest snail phone
 
-Intro the island as green and dense. The kind of place you'd worry about getting a tick if venturing too deep into. Two enormous skeletons are on opposite sides of the island. Once ship is anchored at sea crew travels into the woods. What appears is two giant 
+Intro the island as green and dense. The kind of place you'd worry about getting a tick if venturing too deep into. Two enormous skeletons are on opposite sides of the island. Once ship is anchored at sea crew travels into the woods. What appears is two giant monsters.
+Eventually find GIANT campsite Literally. everything is big. Mugs Campfire Booze. Left in a hurry.
+If Skeletons are found one contains "Military base" whichever one they first go to. Other contains a cave entrance. It leads through a prison area Fairy encounter. 
+Another cave leads to an owlbear encounter. Egg on floor etc.

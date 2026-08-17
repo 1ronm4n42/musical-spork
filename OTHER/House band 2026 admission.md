@@ -9,7 +9,7 @@ How will you foster community in School of Rock as a House Band member?
 - I will participate in 101 groups with a positive attitude and be friendly with the kids. (Because if I was in their shoes a big kid being friendly is a welcome change.)
 - Since people look up to the house band members i would approach things with a positive attitude and be the change i want to see in the school. (Like not hazing new members of house band whether they welcome it or not). 
 - If an issue come up between two kids I would first reach out to an instructor to make them aware of the issue.
-- I'm wholly against any hate or discrimination of any kind. Any squabbles about x is easier to do than y is silly.
+- Any squabbles about x is easier to do than y is silly. I'd be the first to say that
 - If someone needs instruction on a part I would (Probably) be the first to offer advice if it is welcome.
 
 Why do you want to be in house band?
