@@ -18,4 +18,23 @@ Why do you want to be in house band?
 	After two years in 
 
 How will you foster community at School of Rock?
-	I will foster community by offering advice during rehearsals if it's welcome. Since people look up to the house band I would approach things with a positive attitude and be the change I would like to see within house band. I would first come to an adult if an issue appeared. When it comes to the 101 kids i would congradulate them on their achivements honestly beause that is how i would want to be treated if i was their age in this program.
+	I will foster community by offering advice during rehearsals if it's welcome. Since people look up to the house band I would approach things with a positive attitude and be the change I would like to see within house band. I would first come to an adult if an issue appeared. When it comes to the 101 kids i would congradulate them on their achivements honestly beause that is how i would want to be treated if i was their age in this program
+
+I just completed my 2nd year in House Band, and in this last year I’ve learned so
+many new things. During my 2nd year I continued to get to know people but
+also learned more about myself, I feel a little more confident on stage, thanks to
+my band mates encouraging me. I want to continue in House Band, continue
+making new friends, playing music, improving myself and being there for my
+band mates. To show support to new band mates, like the support I’ve received.
+I understand that being in House Band we represent the school and I understand
+how important that is and take that seriously. I feel I have so much more to learn,
+but also a bit of experience to now share with new members.
+
+First by being welcoming to all members of House Band, returning and new
+faces. Help by answering questions to new members and showing them how
+things work. By having a positive attitude and help be the change I would like
+to see within house band. This last year had some challenges with negativity.
+Me and a few others hope to change that around and make it a more positive year.
+Also to show support in performance groups and Rock 101. I remember kind
+words and encouragement from older kids when I was younger and that sticks
+with you.
