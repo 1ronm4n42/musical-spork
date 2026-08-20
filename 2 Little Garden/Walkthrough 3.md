@@ -2,7 +2,7 @@ Little garden. See massive forest with tons of wildelife. Notice first the note 
 
 Notice Logpose has a paper in it. It states
 
-Loffin 14 days
+Whiskey Peak 14 days
 Little garden 1 year
 ODK 1 week
 ?Arlong 4 days
@@ -14,7 +14,32 @@ Wano ------
 
 To skip the wait please dial 73-22 on nearest snail phone
 
-Intro the island as green and dense. The kind of place you'd worry about getting a tick if venturing too deep into. Two enormous skeletons are on opposite sides of the island. Once ship is anchored at sea crew travels into the woods. What appears is two giant monsters.
+Intro the island as green and dense. The kind of place you'd worry about getting a tick if venturing too deep into. Two enormous skeletons are on opposite sides of the island. Once ship is anchored at sea crew travels into the woods. 
+- First desert
+- then river
+- then tree house 
+- then walking on a cloud
+- then bustling city
+- then inside a tavern
+Nothing is tangible just visual.
+can still feel grass below
+Jungle like everywhere.
+once past the illusion sector they pass into conjuration.
+
+In any of the zones any spell of that type is freecast.
+
+After conjuration zone they explore further and find a nice camp zone. First camp night. Planning and talking about this island.
+
+
+
+What appears is two giant monsters. At night. Thri Kreen are only active at night.
+Thri kreen - Bipedal praying mantis'
+- Settled here 200 years ago
+- Human encampment takes over island.
+- Old research facility
+
 Eventually find GIANT campsite Literally. everything is big. Mugs Campfire Booze. Left in a hurry.
 If Skeletons are found one contains "Military base" whichever one they first go to. Other contains a cave entrance. It leads through a prison area Fairy encounter. 
 Another cave leads to an owlbear encounter. Egg on floor etc.
+
+Thri Kreen zone

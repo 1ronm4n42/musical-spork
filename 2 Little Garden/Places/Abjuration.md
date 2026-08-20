@@ -1,1 +1,1 @@
- Randomly give defence buffs to characters. Anti magic, barriers, ac bonus ect
+Randomly give defence buffs to characters. Anti magic, barriers, ac bonus ect

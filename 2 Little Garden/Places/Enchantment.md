@@ -1,1 +1,1 @@
- everyone gets one magic weapon but decrease to hit.
+ everyone gets one item. 
