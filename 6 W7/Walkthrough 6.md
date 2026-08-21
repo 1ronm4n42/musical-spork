@@ -15,4 +15,7 @@ brown
 red
 
 Inside the room is 9 kobolds in seats and One speaking. 
-He greets
+He greets.
+Then 15 minutes pass by speaking amongst themselves
+Trewnchcoat guy dissapointed by how few people showed up.
+He speaks directly to the cast.
