@@ -18,4 +18,4 @@ Inside the room is 9 kobolds in seats and One speaking.
 He greets.
 Then 15 minutes pass by speaking amongst themselves
 Trewnchcoat guy dissapointed by how few people showed up.
-He speaks directly to the cast.
+He speaks directly to the cast. about what they need and why they need it. or why iceberg shouldnt have it.
