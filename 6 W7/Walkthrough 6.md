@@ -1,0 +1,1 @@
+Theives walk the islands streets talking to one another in a secret language. Mommy would first hear it. It keeps going around until they cave and search for this so called doctor's office.
