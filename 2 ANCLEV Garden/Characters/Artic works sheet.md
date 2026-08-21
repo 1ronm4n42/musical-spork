@@ -12,7 +12,7 @@
     Can make blades out of body
     
 - Mr. Zero  
-    Can change the state of an object. Evaporating can be seen as disappearing.
+    Can change the state of an object. Evaporating can be seen as disappearing. only works on very small things
     
 
 Lackeys aren’t named and have the same stats as a villager.
