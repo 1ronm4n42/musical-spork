@@ -26,3 +26,45 @@ Sets off with new mission and healed friend.
 
 Thriller park  
 At admission line Nicklaus can be seen in distance everywhere while exploring. Gecko Harvests souls behind the scene.
+
+
+
+PLOTLIST
+
+- Loguetown/g24/land 0
+	crew starts mission escaped with logpose.
+- 1 loffinlot
+	MQ crew saves from curse
+- 2 Arlong park 
+	Crew saves island from tyrrany
+		sq1 Alchemist spilling what power drug is.
+		sq2 infiltration if one captured
+- 3 Little Garden
+	MQ Magic overflowing island
+		sq1 find eternal pose for Thriller
+			Calling phone number
+			Finding a treasure eternal pose (Leads somewhere else.)
+		sq2 Artic works exploring forest
+			Found them looking or at the base.
+		sq3 Investigating the fish skeletons
+			Right skeleton Artic
+			Left skeleton Kreen
+		sq4 Explore Thrikreen home.
+- 4 Old Drum Kingdom
+	Mq Find cure for MC disease
+- 5 Thriller
+	MQ explore island respite
+		sq1 Town of desires attrations
+		sq2 Sewer fight with slimes
+		sq3 Fake final battle with Nicklaus
+		sq4 Bhaal cultists parading with flags and lights
+- 6 Water 7
+	MQ get inside the MQ party and Theive
+		sq1 Theives chicken chase
+		sq2 Obtain disguises
+		sq3 Find the simon sheet
+		sq4 Steal special blueprints
+		sq5 Steal employment sheet
+- 7 Fishman island/ HEX
+- 8 Real Machina
+- 9 Wano
