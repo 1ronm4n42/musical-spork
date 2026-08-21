@@ -28,6 +28,9 @@ Water 7
 Crew follows theives cant until they reach a doctor's office.
 Door puzzle they just need to open.
 Empty theater except 9 kobolds in seats and three in a trenchcoat at the stage.
+Talk until noon. when they said to be there by.
+No one else comes there is like 20 other seats.
+One kobold gives the presentation. They want the blueprints for the ancient weapon.
 
 Thriller park  
 At admission line Nicklaus can be seen in distance everywhere while exploring. Gecko Harvests souls behind the scene.
