@@ -35,9 +35,8 @@ After conjuration zone they explore further and find a nice camp zone. First cam
 What appears is two giant monsters. At night. Thri Kreen are only active at night.
 Thri kreen - Bipedal praying mantis'
 - Settled here 200 years ago
-- Human encampment takes over island.
-- Old research facility
-
+- inside Old research facility
+- Religious belief to island's magic.
 Eventually find GIANT campsite Literally. everything is big. Mugs Campfire Booze. Left in a hurry.
 If Skeletons are found one contains "Military base" whichever one they first go to. Other contains a cave entrance. It leads through a prison area Fairy encounter. 
 Another cave leads to an owlbear encounter. Egg on floor etc.
@@ -51,14 +50,24 @@ Thri Kreen zone
 Timeline Blockwise
 Notice Paper stuck on Logpose.
 Arrive on Island.
-1 Explore three zones
-2 At night Thri Kreen visit them.
-3
+1 
+Explore three zones.
+2 
+At night Thri Kreen visit them. Owlbear leaves.
+3 
+Volcano explodes covering the cave.
 4
+Owlbear comes back to cave covered
 5
+Thri kreen militia scouts island.
+Artic kills them. Crew will find the dead bodies.
 6
+Encounter Artic Militia. Has one of 6 members
 7
+Owlbear Gets back into cave. Egg was stolen. Auto agress anyone that comes there.
 8
+
 9
+
 10
 Leave maybe

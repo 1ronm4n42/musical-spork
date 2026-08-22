@@ -55,8 +55,8 @@ PLOTLIST
 		sq2 Artic works exploring forest
 			Found them looking or at the base.
 		sq3 Investigating the fish skeletons
-			Right skeleton Artic
-			Left skeleton Kreen
+			TOP skeleton Artic
+			Bottom skeleton Kreen
 		sq4 Explore Thrikreen home.
 - 4 Old Drum Kingdom
 	Mq Find cure for MC disease
