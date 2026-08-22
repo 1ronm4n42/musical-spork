@@ -66,8 +66,8 @@ Encounter Artic Militia. Has one of 6 members
 7
 Owlbear Gets back into cave. Egg was stolen. Auto agress anyone that comes there.
 8
-
+Volcano erupts again closing off the cave entirely.
 9
-
+Thri Kreen militia sent out again hauling "Treasure" From inside the Labratory. 
 10
 Leave maybe
