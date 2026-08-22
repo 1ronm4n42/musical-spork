@@ -19,3 +19,4 @@ He greets.
 Then 15 minutes pass by speaking amongst themselves
 Trewnchcoat guy dissapointed by how few people showed up.
 He speaks directly to the cast. about what they need and why they need it. or why iceberg shouldnt have it.
+They want to steal it from him because the government wants to take the weapon for themselves.
