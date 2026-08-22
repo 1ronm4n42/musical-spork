@@ -43,3 +43,22 @@ If Skeletons are found one contains "Military base" whichever one they first go 
 Another cave leads to an owlbear encounter. Egg on floor etc.
 
 Thri Kreen zone
+
+
+
+
+
+Timeline Blockwise
+Notice Paper stuck on Logpose.
+Arrive on Island.
+1 Explore three zones
+2 At night Thri Kreen visit them.
+3
+4
+5
+6
+7
+8
+9
+10
+Leave maybe
