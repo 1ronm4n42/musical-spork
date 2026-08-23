@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OTHER/House band 2026 admission.md",
+                "file": "2 ANCLEV Garden/Places/5 Purple zone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House band 2026 admission"
+              "title": "5 Purple zone"
+            }
+          },
+          {
+            "id": "8471c03ab0e6abbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universal notes..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Universal notes."
             }
           },
           {
@@ -59,7 +73,8 @@
               "title": "Nicklaus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,8 +227,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5703295492675e8",
+  "active": "8471c03ab0e6abbf",
   "lastOpenFiles": [
+    "2 ANCLEV Garden/Places/5 Purple zone.md",
+    "Universal notes..md",
+    "2 ANCLEV Garden/Places/9 Artic cave prison *.md",
+    "2 ANCLEV Garden/Places/Abjuration (3).md",
+    "2 ANCLEV Garden/Places/8 Volcanic mountains *.md",
+    "2 ANCLEV Garden/Places/7 final Kreen encounter *.md",
+    "2 ANCLEV Garden/Places/6 Kreen artic encounter *.md",
+    "2 ANCLEV Garden/Places/3 Owlbear cave *.md",
+    "2 ANCLEV Garden/Places/1 Artic hideout.md",
+    "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
+    "2 ANCLEV Garden/Places/4 Magik Volcano *.md",
+    "2 ANCLEV Garden/Walkthrough 3.md",
+    "OVERARCHING.md",
+    "2026-08-22.md",
+    "Active play notes..md",
+    "OTHER/House band 2026 admission.md",
     "OTHER/ideas/crazy plot puzzleesque thing.md",
     "OTHER/Images/Pasted image 20260812215152.png",
     "OTHER/Images/Pasted image 20260812215116.png",
@@ -221,7 +252,6 @@
     "OTHER/Images/Pasted image 20260812215036.png",
     "OTHER/Images/Pasted image 20260812215008.png",
     "OTHER/Images/Pasted image 20260812215001.png",
-    "2 ANCLEV Garden/Places/1 Artic hideout.md",
     "Not ready yet/9 Wano/Places/Printing press.md",
     "Not ready yet/9 Wano/Characters/Nicklaus.md",
     "Not ready yet/8 Real Machina/Places/Labs.md",
@@ -231,21 +261,6 @@
     "Not ready yet/6 Thriller/Walkthrough 5.md",
     "Not ready yet/6 Thriller/Places/Sewer area.md",
     "Not ready yet/6 Thriller/Characters/Jack Thompson.md",
-    "Not ready yet/4 Arlong Park/Places/Arlong park.md",
-    "Not ready yet/4 Arlong Park/Characters/Arlong.md",
-    "5 W7/Places/Ball.md",
-    "5 W7/Characters/Artic works list.md",
-    "2 ANCLEV Garden/Places/Transmutation (4).md",
-    "2 ANCLEV Garden/Places/Evocation (5).md",
-    "2 ANCLEV Garden/Places/Enchantment (7).md",
-    "2 ANCLEV Garden/Places/Divination (8).md",
-    "2 ANCLEV Garden/Places/Conjuration (2).md",
-    "2 ANCLEV Garden/Places/Abjuration (3).md",
-    "2 ANCLEV Garden/Characters/TK Queen.md",
-    "2 ANCLEV Garden/Characters/Owlbear. and son.md",
-    "2 ANCLEV Garden/Characters/Aw Militia..md",
-    "2 ANCLEV Garden/Characters/Artic works sheet.md",
-    "Not ready yet/9 Wano/Walkthrough 9.md",
     "Not ready yet/9 Wano/Places",
     "Not ready yet/9 Wano/Characters",
     "Not ready yet/8 Real Machina/Places",
