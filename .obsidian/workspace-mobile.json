@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Old Drum Kingdom/Characters/Ari Mulberry.md",
+                "file": "3 Old Drum Kingdom/Characters/Wapol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ari Mulberry"
+              "title": "Wapol"
             }
           },
           {
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3 Old Drum Kingdom/Characters/Ari Mulberry.md",
+            "file": "3 Old Drum Kingdom/Characters/Wapol.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -229,8 +229,8 @@
   },
   "active": "8471c03ab0e6abbf",
   "lastOpenFiles": [
-    "3 Old Drum Kingdom/Characters/Chopper.md",
     "3 Old Drum Kingdom/Characters/Ari Mulberry.md",
+    "3 Old Drum Kingdom/Characters/Chopper.md",
     "Universal notes..md",
     "2 ANCLEV Garden/Places/5 Purple zone.md",
     "2 ANCLEV Garden/Places/9 Artic cave prison *.md",
