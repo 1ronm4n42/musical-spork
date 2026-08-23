@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25032b0235ff4c79",
+            "id": "836debc9eea23dc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-08-22.md",
+                "file": "2 ANCLEV Garden/Places/1 Artic hideout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-22"
+              "title": "1 Artic hideout"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "62e84fb6ee5e1279",
@@ -200,10 +199,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "25032b0235ff4c79",
+  "active": "836debc9eea23dc9",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
+    "2 ANCLEV Garden/Places/Enchantment (7).md",
+    "2 ANCLEV Garden/Places/Transmutation (4).md",
+    "2 ANCLEV Garden/Places/4 Magik Volcano.md",
+    "Untitled.md",
     "2026-08-22.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "OTHER/Images/Pasted image 20260812215036.png",
     "OTHER/Images/Pasted image 20260812215001.png",
@@ -211,7 +214,6 @@
     "2 ANCLEV Garden/Characters/TK militia 2.md",
     "2 ANCLEV Garden/Characters/Owlbear. and son.md",
     "2 ANCLEV Garden/Characters/TK Queen.md",
-    "2 ANCLEV Garden/Places/4 Magik Volcano.md",
     "2 ANCLEV Garden/Places/5 Purple zone.md",
     "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
     "2 ANCLEV Garden/Places/1 Artic hideout.md",
@@ -221,14 +223,11 @@
     "2 ANCLEV Garden/Characters/TK Militia 1.md",
     "2 ANCLEV Garden/Characters/Punk hidden.md",
     "2 ANCLEV Garden/Characters/Artic works sheet.md",
-    "Untitled.md",
     "2 ANCLEV Garden/Places/Conjuration (2).md",
     "3 Old Drum Kingdom/Walkthrough 4.md",
-    "2 ANCLEV Garden/Places/Enchantment (7).md",
     "2 ANCLEV Garden/Places/Evocation (5).md",
     "2 ANCLEV Garden/Places/Illusion (1).md",
     "2 ANCLEV Garden/Places/Necromancy (6).md",
-    "2 ANCLEV Garden/Places/Transmutation (4).md",
     "2 ANCLEV Garden/Places/9 Artic cave prison.md",
     "2 ANCLEV Garden/Places/8 Volcanic mountains.md",
     "2 ANCLEV Garden/Places/Abjuration (3).md",
