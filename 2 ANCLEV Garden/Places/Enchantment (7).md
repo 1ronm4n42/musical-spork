@@ -1,1 +1,0 @@
- everyone gets one item. 

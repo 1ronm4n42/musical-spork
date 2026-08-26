@@ -1,1 +1,0 @@
-Arrive at dock. Dock turns into cave entrance. Then into open field. Then into fiery dungeon. Shattered plains.

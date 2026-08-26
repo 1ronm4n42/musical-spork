@@ -1,1 +1,0 @@
- Raise dead. Leaves bugs rats small animals eventually, spreads to whole island reviving the seakings.

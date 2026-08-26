@@ -1,1 +1,0 @@
-Once a doctor is asked for wapol comes down in his stupidness, and asks for 
