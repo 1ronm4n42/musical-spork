@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "a4005f170827206f",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c90a97204bcfc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27427fc3dfb53577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ANCLEV Garden/Places/5 Purple zone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 Purple zone"
+            }
+          },
+          {
+            "id": "8471c03ab0e6abbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Old Drum Kingdom/Characters/Wapol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wapol"
+            }
+          },
+          {
+            "id": "2b66f77083c9f24c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b619aec8ccc8eca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "List for tomorrow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "List for tomorrow"
+            }
+          },
+          {
+            "id": "3b52000c9394db90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 Wano/Characters/Nicklaus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nicklaus"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98f2fe49b475e48f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d5703295492675e8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f3417fa3bba56e06",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6802f09db42e0c47",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "db37ed4b90313369",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "c2024e5c54d422be",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9ca2271a5b6eaccf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a48461624eba1bc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "3 Old Drum Kingdom/Characters/Wapol.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0a849cee8de5def3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "so this horse right..md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4bceff8f1f69a593",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "so this horse right..md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8471c03ab0e6abbf",
+  "lastOpenFiles": [
+    "3 Old Drum Kingdom/Characters/Ari Mulberry.md",
+    "3 Old Drum Kingdom/Characters/Chopper.md",
+    "Universal notes..md",
+    "2 ANCLEV Garden/Places/5 Purple zone.md",
+    "2 ANCLEV Garden/Places/9 Artic cave prison *.md",
+    "2 ANCLEV Garden/Places/Abjuration (3).md",
+    "2 ANCLEV Garden/Places/8 Volcanic mountains *.md",
+    "2 ANCLEV Garden/Places/7 final Kreen encounter *.md",
+    "2 ANCLEV Garden/Places/6 Kreen artic encounter *.md",
+    "2 ANCLEV Garden/Places/3 Owlbear cave *.md",
+    "2 ANCLEV Garden/Places/1 Artic hideout.md",
+    "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
+    "2 ANCLEV Garden/Places/4 Magik Volcano *.md",
+    "2 ANCLEV Garden/Walkthrough 3.md",
+    "OVERARCHING.md",
+    "2026-08-22.md",
+    "Active play notes..md",
+    "OTHER/House band 2026 admission.md",
+    "OTHER/ideas/crazy plot puzzleesque thing.md",
+    "OTHER/Images/Pasted image 20260812215152.png",
+    "OTHER/Images/Pasted image 20260812215116.png",
+    "OTHER/Images/Pasted image 20260812215058.png",
+    "OTHER/Images/Pasted image 20260812215036.png",
+    "OTHER/Images/Pasted image 20260812215008.png",
+    "OTHER/Images/Pasted image 20260812215001.png",
+    "Not ready yet/9 Wano/Places/Printing press.md",
+    "Not ready yet/9 Wano/Characters/Nicklaus.md",
+    "Not ready yet/8 Real Machina/Places/Labs.md",
+    "Not ready yet/8 Real Machina/Characters/Vegapunk.md",
+    "Not ready yet/7 FMI or HEX/Places/Fishman bathouse.md",
+    "Not ready yet/7 FMI or HEX/Characters/Examiner.md",
+    "Not ready yet/6 Thriller/Walkthrough 5.md",
+    "Not ready yet/9 Wano/Places",
+    "Not ready yet/9 Wano/Characters",
+    "Not ready yet/8 Real Machina/Places",
+    "Not ready yet/8 Real Machina/Characters",
+    "Not ready yet/7 FMI or HEX/Places",
+    "Not ready yet/7 FMI or HEX/Characters",
+    "Not ready yet/6 Thriller/Places",
+    "Not ready yet/6 Thriller/Characters",
+    "Not ready yet/4 Arlong Park/Places",
+    "Not ready yet/4 Arlong Park/Characters"
+  ]
+}
