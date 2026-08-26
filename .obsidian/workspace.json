@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee8bed9ebf3d26e",
+        "id": "c9edbfdcdd9ff2e0",
         "type": "tabs",
         "children": [
           {
-            "id": "836debc9eea23dc9",
+            "id": "4a967b6e2a7d49ad",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "1 Loffinlot/characters/1 Old Man Earl.md",
-                "bFile": "1 Loffinlot/characters/1 Old Man Earl.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "2026-08-26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 1 Old Man Earl  (Index)"
+              "icon": "lucide-file",
+              "title": "2026-08-26"
             }
           }
         ]
@@ -190,18 +189,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "836debc9eea23dc9",
+  "active": "4a967b6e2a7d49ad",
   "lastOpenFiles": [
+    "Untitled.base",
+    "2026-08-26.md",
     "conflict-files-obsidian-git.md",
     "5 W7/Characters/Artic works list.md",
     "5 W7/Places/Ball.md",
@@ -226,8 +227,6 @@
     "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
     "2 ANCLEV Garden/Places/1 Artic hideout.md",
     "OVERARCHING.md",
-    "Active play notes..md",
-    "2026-08-22.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "OTHER/Images/Pasted image 20260812215036.png",
@@ -242,7 +241,6 @@
     "Not ready yet/8 Real Machina/Characters",
     "Not ready yet/7 FMI or HEX/Places",
     "Not ready yet/7 FMI or HEX/Characters",
-    "5 W7/Places",
     "OTHER/Images/Pasted image 20260812215116.png",
     "OTHER/Images/Pasted image 20260812215058.png",
     "OTHER/Images/Pasted image 20260812215152.png"
