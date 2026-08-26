@@ -1,2 +1,0 @@
-Prison is like Zenheteim hideout bg3
-Underground with large trestles which harbor people across. Locked doors and jail cells with nothing in them. At the very end there are two cells. Both pixies. Small baby things. Can’t speak but bang on the bars. Same attacks as two bears. Next in the trunk is loot.
