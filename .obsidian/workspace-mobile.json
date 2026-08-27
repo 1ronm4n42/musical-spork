@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Old Drum Kingdom/Characters/Wapol.md",
+                "file": "1 Loffinlot/Walkthrough 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wapol"
+              "title": "Walkthrough 1"
+            }
+          },
+          {
+            "id": "ff4f5c94382a4cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Old Drum Kingdom/Characters/Ari Mulberry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ari Mulberry"
             }
           },
           {
@@ -74,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +184,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3 Old Drum Kingdom/Characters/Wapol.md",
+            "file": "1 Loffinlot/Walkthrough 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,9 +225,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "0cf175b7dc739041",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,43 +248,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8471c03ab0e6abbf",
+  "active": "ff4f5c94382a4cdd",
   "lastOpenFiles": [
+    "3 Old Drum Kingdom/Places/Blossom forest.md",
+    "2 ANCLEV Garden/Places/3 Owlbear cave x.md",
+    "2 ANCLEV Garden/Places/6 Kreen artic encounter *.md",
+    "2 ANCLEV Garden/Places/4Magik Volcano.md",
+    "2 ANCLEV Garden/Places/6 kreen artic encounter.md",
+    "2 ANCLEV Garden/Places/8 volcanic mountains.md",
+    "2 ANCLEV Garden/Places/9 artic cave mountain.md",
+    "2 ANCLEV Garden/Places/7 final kreen encounter.md",
+    "2 ANCLEV Garden/Places/Abjuration (3).md",
+    "2 ANCLEV Garden/Places/3 Owlbear cave *.md",
+    "2 ANCLEV Garden/Characters/Owlbear. and son.md",
+    "2 ANCLEV Garden/Walkthrough 3.md",
+    "3 Old Drum Kingdom/Places/Doctorine house.md",
+    "conflict-files-obsidian-git.md",
+    "1 Loffinlot/Walkthrough 1.md",
+    "1 Loffinlot/characters/1 Old Man Earl.md",
+    "1 Loffinlot/characters/7 Nicklaus Hendrickson.md",
+    "Not ready yet/4 Arlong Park/Characters/Arlong.md",
+    "OVERARCHING.md",
+    "2 ANCLEV Garden/Places/4 Magik Volcano *.md",
+    "3 Old Drum Kingdom/Characters/Untitled.md",
     "3 Old Drum Kingdom/Characters/Ari Mulberry.md",
+    "3 Old Drum Kingdom/Characters/Wapol.md",
     "3 Old Drum Kingdom/Characters/Chopper.md",
     "Universal notes..md",
     "2 ANCLEV Garden/Places/5 Purple zone.md",
-    "2 ANCLEV Garden/Places/9 Artic cave prison *.md",
-    "2 ANCLEV Garden/Places/Abjuration (3).md",
-    "2 ANCLEV Garden/Places/8 Volcanic mountains *.md",
-    "2 ANCLEV Garden/Places/7 final Kreen encounter *.md",
-    "2 ANCLEV Garden/Places/6 Kreen artic encounter *.md",
-    "2 ANCLEV Garden/Places/3 Owlbear cave *.md",
-    "2 ANCLEV Garden/Places/1 Artic hideout.md",
-    "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
-    "2 ANCLEV Garden/Places/4 Magik Volcano *.md",
-    "2 ANCLEV Garden/Walkthrough 3.md",
-    "OVERARCHING.md",
-    "2026-08-22.md",
-    "Active play notes..md",
-    "OTHER/House band 2026 admission.md",
-    "OTHER/ideas/crazy plot puzzleesque thing.md",
     "OTHER/Images/Pasted image 20260812215152.png",
     "OTHER/Images/Pasted image 20260812215116.png",
     "OTHER/Images/Pasted image 20260812215058.png",
     "OTHER/Images/Pasted image 20260812215036.png",
     "OTHER/Images/Pasted image 20260812215008.png",
     "OTHER/Images/Pasted image 20260812215001.png",
-    "Not ready yet/9 Wano/Places/Printing press.md",
-    "Not ready yet/9 Wano/Characters/Nicklaus.md",
-    "Not ready yet/8 Real Machina/Places/Labs.md",
-    "Not ready yet/8 Real Machina/Characters/Vegapunk.md",
-    "Not ready yet/7 FMI or HEX/Places/Fishman bathouse.md",
-    "Not ready yet/7 FMI or HEX/Characters/Examiner.md",
-    "Not ready yet/6 Thriller/Walkthrough 5.md",
     "Not ready yet/9 Wano/Places",
     "Not ready yet/9 Wano/Characters",
     "Not ready yet/8 Real Machina/Places",
