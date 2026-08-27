@@ -8,6 +8,8 @@ Clown Hisoka Like.
 Buisness man Suit and tie.
 True form Later
 
+
+
 ? A lot of hp 18d6
 
 Stat block

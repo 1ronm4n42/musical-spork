@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
+                "file": "3 Old Drum Kingdom/Places/Doctorine house.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Thri Kreen Village , Punk base"
+              "title": "Doctorine house"
             }
           },
           {
@@ -27,7 +27,68 @@
             "state": {
               "type": "intiative-tracker-encounter-builder",
               "state": {
-                "encounter": []
+                "encounter": [
+                  [
+                    {
+                      "name": "Dire Wolf",
+                      "source": "5e SRD",
+                      "size": "Large",
+                      "type": "beast",
+                      "subtype": "",
+                      "alignment": "unaligned",
+                      "ac": 14,
+                      "hp": 37,
+                      "hit_dice": "5d10 + 9",
+                      "speed": "50 ft.",
+                      "stats": [
+                        17,
+                        15,
+                        15,
+                        3,
+                        12,
+                        7
+                      ],
+                      "skillsaves": [
+                        {
+                          "perception": 3
+                        },
+                        {
+                          "stealth": 4
+                        }
+                      ],
+                      "damage_vulnerabilities": "",
+                      "damage_resistances": "",
+                      "damage_immunities": "",
+                      "condition_immunities": "",
+                      "senses": "passive Perception 13",
+                      "languages": "",
+                      "cr": "1",
+                      "bestiary": true,
+                      "traits": [
+                        {
+                          "name": "Keen Hearing and Smell",
+                          "desc": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+                          "attack_bonus": 0
+                        },
+                        {
+                          "name": "Pack Tactics",
+                          "desc": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+                          "attack_bonus": 0
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "name": "Bite",
+                          "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.",
+                          "attack_bonus": 5,
+                          "damage_dice": "2d6",
+                          "damage_bonus": 3
+                        }
+                      ]
+                    },
+                    2
+                  ]
+                ]
               },
               "icon": "intiative-tracker-encounter-builder",
               "title": "Encounter Builder"
@@ -118,7 +179,7 @@
       {
         "id": "0b252891e7782c89",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "816f01f1c2e0c9ce",
@@ -223,7 +284,7 @@
       {
         "id": "202f2760651de5ec",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "21be17f4d8cfc29e",
@@ -240,7 +301,7 @@
       {
         "id": "02365778780cfcaa",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "c80835e10b22d3ca",
@@ -248,8 +309,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_e87b49286be9",
-                "creatureName": "Owlbear"
+                "creatureId": "ID_b949b8daa8b8",
+                "creatureName": "Dire Wolf"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -275,34 +336,34 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "21be17f4d8cfc29e",
+  "active": "4a967b6e2a7d49ad",
   "lastOpenFiles": [
-    "2 ANCLEV Garden/Places/4Magik Volcano x.md",
-    "2 ANCLEV Garden/Places/3 Owlbear cave x.md",
-    "2 ANCLEV Garden/Characters/Owlbear. and son.md",
-    "2 ANCLEV Garden/Characters/TK Militia 1.md",
+    "3 Old Drum Kingdom/Characters/Chopper.md",
+    "3 Old Drum Kingdom/Walkthrough 4.md",
+    "3 Old Drum Kingdom/Places/Doctorine house.md",
+    "3 Old Drum Kingdom/Characters/Ari Mulberry.md",
+    "1 Loffinlot/Walkthrough 1.md",
+    "2 ANCLEV Garden/Places/1 Artic hideout.md",
     "2 ANCLEV Garden/Characters/Aw Militia..md",
+    "2 ANCLEV Garden/Characters/Artic works sheet.md",
     "1 Loffinlot/characters/7 Nicklaus Hendrickson.md",
+    "2 ANCLEV Garden/Places/5 Purple zone.md",
+    "2 ANCLEV Garden/Characters/TK Queen.md",
+    "2 ANCLEV Garden/Characters/Owlbear. and son.md",
+    "2 ANCLEV Garden/Places/Abjuration (3).md",
+    "2 ANCLEV Garden/Places/6 kreen artic encounter.md",
+    "2 ANCLEV Garden/Places/7 final kreen encounter.md",
+    "2 ANCLEV Garden/Places/8 volcanic mountains.md",
+    "2 ANCLEV Garden/Places/9 artic cave mountain.md",
+    "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
+    "2 ANCLEV Garden/Characters/TK Militia 1.md",
+    "2 ANCLEV Garden/Places/4Magik Volcano.md",
+    "2 ANCLEV Garden/Places/3 Owlbear cave x.md",
+    "2 ANCLEV Garden/Characters/TK militia 2.md",
     "1 Loffinlot/characters/3 Rolan Loffin.md",
     "1 Loffinlot/characters/1 Old Man Earl.md",
-    "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
-    "2 ANCLEV Garden/Characters/Artic works sheet.md",
-    "2 ANCLEV Garden/Places/1 Artic hideout.md",
-    "2 ANCLEV Garden/Places/Abjuration (3).md",
-    "2 ANCLEV Garden/Places/9 artic cave mountain.md",
-    "2 ANCLEV Garden/Places/8 volcanic mountains.md",
-    "2 ANCLEV Garden/Places/7 final kreen encounter.md",
-    "2 ANCLEV Garden/Places/6 kreen artic encounter.md",
-    "2 ANCLEV Garden/Places/5 Purple zone.md",
     "2 ANCLEV Garden/Walkthrough 3.md",
     "3 Old Drum Kingdom/Places/Kaldad village.md",
-    "3 Old Drum Kingdom/Places/Doctorine house.md",
-    "3 Old Drum Kingdom/Places/Blossom forest.md",
-    "2 ANCLEV Garden/Places/Divination (8).md",
-    "2 ANCLEV Garden/Places/Illusion (1).md",
-    "2 ANCLEV Garden/Characters/TK Queen.md",
-    "2 ANCLEV Garden/Characters/TK militia 2.md",
-    "1 Loffinlot/characters/6 David Klein.md",
     "OTHER/Images/Pasted image 20260812215152.png",
     "OTHER/Images/Pasted image 20260812215116.png",
     "OTHER/Images/Pasted image 20260812215058.png",

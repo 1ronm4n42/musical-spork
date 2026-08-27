@@ -90,6 +90,8 @@ All sends to the Tower where Nicklaus will make a deal with them.
 
 Deal is based if accepted town’s curse is lifted.
 
+BRANDS THE PEOPLE HE MAKES DEALS WITH. NUMBERS N.H.#1023 AND SO ON IF MADE.
+
   
 
 Mommy
