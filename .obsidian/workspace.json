@@ -13,12 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 ANCLEV Garden/Characters/Artic works sheet.md",
+                "file": "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artic works sheet"
+              "title": "2 Thri Kreen Village , Punk base"
+            }
+          },
+          {
+            "id": "152d979e7bfa7d43",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": {
+                "encounter": []
+              },
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "bc8b139b34209af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 Thri Kreen Village , Punk base"
             }
           }
         ]
@@ -55,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,6 +118,7 @@
       {
         "id": "0b252891e7782c89",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "816f01f1c2e0c9ce",
@@ -179,13 +206,60 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c08c448f65a65e9b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
+      },
+      {
+        "id": "202f2760651de5ec",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "21be17f4d8cfc29e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "02365778780cfcaa",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "c80835e10b22d3ca",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_e87b49286be9",
+                "creatureName": "Owlbear"
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +270,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b35747b5728db42b",
+  "active": "21be17f4d8cfc29e",
   "lastOpenFiles": [
+    "2 ANCLEV Garden/Places/4Magik Volcano x.md",
+    "2 ANCLEV Garden/Places/3 Owlbear cave x.md",
+    "2 ANCLEV Garden/Characters/Owlbear. and son.md",
+    "2 ANCLEV Garden/Characters/TK Militia 1.md",
+    "2 ANCLEV Garden/Characters/Aw Militia..md",
+    "1 Loffinlot/characters/7 Nicklaus Hendrickson.md",
+    "1 Loffinlot/characters/3 Rolan Loffin.md",
+    "1 Loffinlot/characters/1 Old Man Earl.md",
+    "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
+    "2 ANCLEV Garden/Characters/Artic works sheet.md",
     "2 ANCLEV Garden/Places/1 Artic hideout.md",
     "2 ANCLEV Garden/Places/Abjuration (3).md",
     "2 ANCLEV Garden/Places/9 artic cave mountain.md",
@@ -208,10 +294,6 @@
     "2 ANCLEV Garden/Places/7 final kreen encounter.md",
     "2 ANCLEV Garden/Places/6 kreen artic encounter.md",
     "2 ANCLEV Garden/Places/5 Purple zone.md",
-    "2 ANCLEV Garden/Places/4Magik Volcano x.md",
-    "2 ANCLEV Garden/Places/3 Owlbear cave x.md",
-    "2 ANCLEV Garden/Characters/Owlbear. and son.md",
-    "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
     "2 ANCLEV Garden/Walkthrough 3.md",
     "3 Old Drum Kingdom/Places/Kaldad village.md",
     "3 Old Drum Kingdom/Places/Doctorine house.md",
@@ -220,13 +302,7 @@
     "2 ANCLEV Garden/Places/Illusion (1).md",
     "2 ANCLEV Garden/Characters/TK Queen.md",
     "2 ANCLEV Garden/Characters/TK militia 2.md",
-    "2 ANCLEV Garden/Characters/TK Militia 1.md",
-    "1 Loffinlot/characters/3 Rolan Loffin.md",
-    "1 Loffinlot/characters/7 Nicklaus Hendrickson.md",
     "1 Loffinlot/characters/6 David Klein.md",
-    "1 Loffinlot/characters/4 James Booker.md",
-    "1 Loffinlot/characters/2 Amanda Rin.md",
-    "Not ready yet/4 Arlong Park/Characters/Arlong.md",
     "OTHER/Images/Pasted image 20260812215152.png",
     "OTHER/Images/Pasted image 20260812215116.png",
     "OTHER/Images/Pasted image 20260812215058.png",
