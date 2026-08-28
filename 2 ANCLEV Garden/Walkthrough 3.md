@@ -1,3 +1,29 @@
+
+
+1 
+Explore three zones.
+2 
+At night Thri Kreen visit them. Owlbear leaves.
+3 
+Volcano explodes covering the cave.
+4
+Owlbear comes back to cave covered
+5
+Thri kreen militia scouts island.
+Artic kills them. Crew will find the dead bodies.
+6
+Encounter Artic Militia. Has one of 6 members
+7
+Owlbear Gets back into cave. Egg was stolen. Auto agress anyone that comes there.
+8
+Volcano erupts again closing off the cave entirely.
+9
+Thri Kreen militia sent out again hauling "Treasure" From inside the Labratory. 
+10
+Leave maybe
+
+
+
 Little garden. See massive forest with tons of wildelife. Notice first the note that came with the logpose. Each island's stop time. Little garden is 1 year. Explore island for snail phone. Artic works underground base. Prison keeping fairies (Transmutation zone). Owlbear encounter. Dino. Once admin located he explains the island. Compass N.H. led here. Named desire compass. They secretly know it is the island N.H is supposed to be on. They might investigate the other magical zones. Artic lies and calls it government experiment. Magic zones and such. Once they dive deep enough they find Phone to call order eternal to Thriller park. Not much else to do so the skeletons come to life and wreck.
 
 Notice Logpose has a paper in it. It states
@@ -21,6 +47,7 @@ Intro the island as green and dense. The kind of place you'd worry about getting
 - then walking on a cloud
 - then bustling city
 - then inside a tavern
+- Pass finally through into the lush forest.
 Nothing is tangible just visual.
 can still feel grass below
 Jungle like everywhere.
@@ -30,7 +57,7 @@ In any of the zones any spell of that type is freecast.
 
 After conjuration zone they explore further and find a nice camp zone. First camp night. Planning and talking about this island.
 
-
+Conjuration
 
 What appears is two giant monsters. At night. Thri Kreen are only active at night.
 Thri kreen - Bipedal praying mantis'
