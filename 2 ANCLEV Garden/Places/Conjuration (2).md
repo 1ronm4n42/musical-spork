@@ -2,7 +2,7 @@ Get random spell affected immediately. Or saved for later.
 
 You all feel something heavier in your hands. Holding  a scroll each that wasnt there before
 
-
+ADDS FAKE BLUEPRINT. TO SOMEONE.
 
 
 grease

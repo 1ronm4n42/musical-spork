@@ -22,5 +22,5 @@ Coughs and clears throat. Silly upbeat gag.
 If phone or compass is asked for he cannot help.
 "Oh, sorry no can do toots. Our _FITB_ just so happen to not be working right now. Welp. You can leave now."
 
-If they decide to look around they find in the "Strategy room" a compass on a pedestal. Upon closer inspection the compass points straight downwards. On the side the compass reads N.H. #0309
+If they decide to look around they find in the "Strategy room" a compass on a pedestal. Upon closer inspection the compass points straight downwards. On the side the compass reads N.H. #0781
 

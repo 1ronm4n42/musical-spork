@@ -7,6 +7,7 @@ If ill acted upon them they force the players to act against Nicklaus.
 N.H. #03
 
 Three rules they follow:
-Cannot like but evades.
+
+Cannot lie must evade
 Must provide hospitality
 Cannot steal. If stolen from they know 

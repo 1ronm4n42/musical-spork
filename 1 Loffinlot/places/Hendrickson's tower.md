@@ -1,11 +1,11 @@
 Hello dear, my name is Nicklaus. Hendrickson. Wish doctor. Desire daddy, Papa possibility if you will. I'm a very busy man. so I need to get this moving. I have a deal prepared for you. If you take it three things will happen. You wont be able to tell your friends if you took it. The town will be freed from the curse and I'll grant your greatest desire. 
 
-
+BRANDS THE PEOPLE HE MAKES DEALS WITH. NUMBERS N.H.#1023 AND SO ON IF MADE.
 
 Mommy
 A specimen you are you. want, respect but theres an insecurity there. I can feel it. I'm feeling bottom energy.
 
-Promise of Respect. (Everyone will assume best of Mommy. Disadv intimidation and any spells that affect mind save dc is 10) 
+Promise of Respect. (Everyone will assume best of Mommy. Disadv intimidation and any spells that affect mind save dc is 17) 
 
 Promise of Domination. (Nobody outside of party will trust Mommy on any front)
 
@@ -18,6 +18,7 @@ Big papa you call yourself? Your stature the way you carry yourself screams hero
 
 Shortstack
 You seem quite selfless for a cleric. What god do you follow? Trickery usually falls under the old gods.
+
 Promise safety of friends on next island. No consequence.
 Other she suggests fitting punishment
 
