@@ -1,6 +1,6 @@
 Basic blank space
 - Job board:
-Forage for specific mushroom edema cryanis.
+Forage for specific mushroom edama cryanis.
 
 Blue frozen mushroom
 
