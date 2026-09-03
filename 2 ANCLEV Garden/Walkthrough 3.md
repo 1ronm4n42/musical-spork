@@ -3,7 +3,7 @@ Little garden. See massive forest with tons of wildelife. Notice first the note 
 Notice Logpose has a paper in it. It states
 
 Whiskey Peak 14 days
-Little garden 1 year
+Anclev garden 1 year
 ODK 1 week
 ?Arlong 4 days
 Thriller 2 months
