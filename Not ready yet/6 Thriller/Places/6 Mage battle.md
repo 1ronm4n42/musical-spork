@@ -1,0 +1,1 @@
+Mages fight using E class citizens. Try to get crew to sign up.

@@ -41,22 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Loffinlot/places/Hendrickson's tower.md",
+                "file": "Not ready yet/6 Thriller/Places/5 Piggy speedway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hendrickson's tower"
+              "title": "5 Piggy speedway"
             }
           },
           {
             "id": "2b66f77083c9f24c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OTHER/ideas/Cardboard and string rag doll.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cardboard and string rag doll"
             }
           },
           {
@@ -88,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,34 +270,36 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ff4f5c94382a4cdd",
+  "active": "2b66f77083c9f24c",
   "lastOpenFiles": [
-    "1 Loffinlot/characters/7 Nicklaus Hendrickson.md",
-    "1 Loffinlot/Walkthrough 1.md",
-    "1 Loffinlot/places/Hendrickson's tower.md",
-    "3 Old Drum Kingdom/Characters/Ari Mulberry.md",
-    "3 Old Drum Kingdom/Characters/Untitled.md",
+    "OTHER/ideas/Island ideas.md",
+    "OTHER/ideas/Cardboard and string rag doll.md",
+    "Not ready yet/Another island/Walkthrough.md",
+    "Not ready yet/4 Arlong Park/Characters/Student council Kill La.md",
+    "Not ready yet/Another island",
+    "Not ready yet/7 FMI or HEX/Untitled",
+    "Not ready yet/6 Thriller/Places/02 auction house.md",
+    "Not ready yet/6 Thriller/Places/01 Casino.md",
+    "Not ready yet/6 Thriller/Places/8 Host club.md",
+    "Not ready yet/6 Thriller/Places/7 Horse racing..md",
+    "Not ready yet/6 Thriller/Places/6 Mage battle.md",
+    "Untitled.md",
+    "Not ready yet/6 Thriller/Places/5 Piggy speedway.md",
+    "Not ready yet/6 Thriller/Places/4 Pit Putt.md",
+    "Not ready yet/6 Thriller/Places/3 Ring toss.md",
+    "Not ready yet/6 Thriller/Places/2 Kill the Donkey.md",
+    "Not ready yet/6 Thriller/Places/1 Collect clown.md",
+    "Not ready yet/6 Thriller/Walkthrough 5.md",
     "3 Old Drum Kingdom/Characters/Wapol.md",
-    "3 Old Drum Kingdom/Places/Wapol castle.md",
-    "3 Old Drum Kingdom/Places/Kaldad village.md",
-    "3 Old Drum Kingdom/Places/Doctorine house.md",
     "3 Old Drum Kingdom/Characters/Chopper.md",
-    "2 ANCLEV Garden/Characters/TK Militia 1.md",
-    "2 ANCLEV Garden/Places/Enchantment (7).md",
-    "2 ANCLEV Garden/Places/Abjuration (3).md",
-    "2 ANCLEV Garden/Places/Conjuration (2).md",
-    "2 ANCLEV Garden/Walkthrough 3.md",
-    "2 ANCLEV Garden/Places/3 Owlbear cave x.md",
-    "2 ANCLEV Garden/Characters/Owlbear. and son.md",
-    "2 ANCLEV Garden/Places/8 volcanic mountains.md",
-    "2 ANCLEV Garden/Places/5 Purple zone.md",
-    "2 ANCLEV Garden/Places/7 final kreen encounter.md",
-    "2 ANCLEV Garden/Places/6 kreen artic encounter.md",
-    "2 ANCLEV Garden/Places/4Magik Volcano.md",
-    "2 ANCLEV Garden/Places/2 Thri Kreen Village , Punk base.md",
-    "2 ANCLEV Garden/Places/1 Artic hideout.md",
-    "3 Old Drum Kingdom/Places/Blossom forest.md",
-    "2 ANCLEV Garden/Places/6 Kreen artic encounter *.md",
+    "3 Old Drum Kingdom/Characters/Ari Mulberry.md",
+    "1 Loffinlot/places/Shipbuilding Hut.md",
+    "1 Loffinlot/places/Mayor's Office.md",
+    "1 Loffinlot/characters/3 Rolan Loffin.md",
+    "1 Loffinlot/characters/6 David Klein.md",
+    "Not ready yet/8 Real Machina/Walkthrough 8.md",
+    "1 Loffinlot/places/Hendrickson's tower.md",
+    "1 Loffinlot/characters/7 Nicklaus Hendrickson.md",
     "OTHER/Images/Pasted image 20260812215152.png",
     "OTHER/Images/Pasted image 20260812215116.png",
     "OTHER/Images/Pasted image 20260812215058.png",
@@ -307,8 +313,6 @@
     "Not ready yet/7 FMI or HEX/Places",
     "Not ready yet/7 FMI or HEX/Characters",
     "Not ready yet/6 Thriller/Places",
-    "Not ready yet/6 Thriller/Characters",
-    "Not ready yet/4 Arlong Park/Places",
-    "Not ready yet/4 Arlong Park/Characters"
+    "Not ready yet/6 Thriller/Characters"
   ]
 }
