@@ -50,3 +50,6 @@ At night the cure events unfold. Party as heros for next couple days. Loffins ta
 
 
 ![[Pasted image 20260812215058.png]]
+
+After you enter the tower immediately you smell the scent of burning wood. You see two couches, a bed, and two stairs on the walls of this circular room. The couches are in front of a fireplace. A man with a suit and tie sits in a couch. He writes in a notebook it seems. Perfect handwriting. NYT roman.
+

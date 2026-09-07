@@ -1,4 +1,4 @@
-
+Before we get started on thi sone can everybody choose a number. No duplicates. 
 
 1 
 Explore three zones.
@@ -28,15 +28,6 @@ Little garden. See massive forest with tons of wildelife. Notice first the note 
 
 Notice Logpose has a paper in it. It states
 
-Whiskey Peak 14 days
-Anclev garden 1 year
-ODK 1 week
-?Arlong 4 days
-Thriller 2 months
-W7 5 days
-FMI Half day
-RM/EGG 2 days
-Wano ------
 
 To skip the wait please dial 73-22 on nearest snail phone
 
@@ -60,7 +51,7 @@ After conjuration zone they explore further and find a nice camp zone. First cam
 Conjuration
 
 What appears is two giant monsters. At night. Thri Kreen are only active at night.
-Thri kreen - Bipedal praying mantis'
+Thri kreen - Bipedal insectoid'
 - Settled here 200 years ago
 - inside Old research facility
 - Religious belief to island's magic.

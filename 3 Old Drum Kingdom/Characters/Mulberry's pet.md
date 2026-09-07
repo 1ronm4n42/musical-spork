@@ -1,0 +1,2 @@
+Similar to a floret Situation. Kitsune hidden deep in the Dining hall.
+Next to their bowl is a backrooms like Maze. Except its cozy and carpeted. Inside an Iron cage is a humanoid sleeping peacefully. 

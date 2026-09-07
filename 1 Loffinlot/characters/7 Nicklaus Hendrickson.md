@@ -9,6 +9,10 @@ Buisness man Suit and tie.
 True form Later
 
 
+Suit and tie appearance descriptions
+He is a humanoid. Nearly slender limbs but it is covered by his suit. Black with white embellishments. A red tie adorns his neck. He looks savage as any buisnessman would.
+
+
 
 ? A lot of hp 18d6
 

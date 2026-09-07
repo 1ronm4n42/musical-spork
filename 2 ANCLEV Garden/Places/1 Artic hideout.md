@@ -1,3 +1,4 @@
+
 If they decide to peep the giant skeletons a cave entrance leads down to the 
 
 
@@ -24,3 +25,16 @@ If phone or compass is asked for he cannot help.
 
 If they decide to look around they find in the "Strategy room" a compass on a pedestal. Upon closer inspection the compass points straight downwards. On the side the compass reads N.H. #0781
 
+1 2 3 4 5
+6 7 8 9 10
+
+1 Current
+2 Wounded "soldiers"
+3 Weapons room. Locked
+4 Food and water stores.
+5 Map of island.
+6 Biggest. Compass
+7 Room with a hole in it.
+8 Trash
+9 Bathrooms Clearly marked. 
+10 Beds. Most sleeping.

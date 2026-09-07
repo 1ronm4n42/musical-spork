@@ -14,3 +14,14 @@ FRENCH GUARDS:  chuckle
 
 FRENCH GUARD: I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries! 
 
+```encounter
+name: Encounter
+players:
+  - Big Papa
+  - Mommy
+  - Bugwhere
+  - Shortstack
+creatures:
+  - "1": Bearded Devil
+```
+

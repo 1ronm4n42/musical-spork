@@ -1,23 +1,7 @@
 {
   "players": [
     {
-      "name": "BUGWHERE",
-      "level": 3,
-      "hp": 24,
-      "ac": "14",
-      "modifier": 5,
-      "player": true
-    },
-    {
-      "name": "SHORTSTACK",
-      "level": 3,
-      "hp": 21,
-      "ac": "13",
-      "modifier": 0,
-      "player": true
-    },
-    {
-      "name": "BIG PAPA",
+      "name": "Big Papa",
       "level": 3,
       "hp": 27,
       "ac": "16",
@@ -25,26 +9,44 @@
       "player": true
     },
     {
-      "name": "MOMMY",
+      "name": "Mommy",
       "level": 3,
       "hp": 24,
       "ac": "15",
       "modifier": 3,
       "player": true
+    },
+    {
+      "note": "Untitled",
+      "path": "Untitled.canvas",
+      "name": "Bugwhere",
+      "level": 3,
+      "hp": 24,
+      "ac": "14",
+      "modifier": 5,
+      "player": true
+    },
+    {
+      "name": "Shortstack",
+      "level": 3,
+      "hp": 21,
+      "ac": "13",
+      "modifier": 0,
+      "player": true
     }
   ],
   "parties": [
     {
-      "name": "Crew",
+      "name": "Default",
       "players": [
-        "BUGWHERE",
-        "SHORTSTACK",
-        "BIG PAPA",
-        "MOMMY"
+        "Big Papa",
+        "Mommy",
+        "Bugwhere",
+        "Shortstack"
       ]
     }
   ],
-  "defaultParty": "Crew",
+  "defaultParty": null,
   "statuses": [
     {
       "name": "Blinded",
@@ -137,73 +139,21 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": true,
+  "sync": false,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
     "creatures": [
       {
-        "name": "BUGWHERE",
-        "initiative": 10,
-        "static": false,
-        "modifier": 5,
-        "hp": 24,
-        "currentMaxHP": 24,
-        "ac": "14",
-        "currentAC": "14",
-<<<<<<< HEAD
-        "id": "ID_0acbdab948a9",
-=======
-        "id": "ID_ca5be8ca287a",
->>>>>>> origin/main
-        "currentHP": 24,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 3,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "SHORTSTACK",
-        "initiative": 6,
-        "static": false,
-        "modifier": 0,
-        "hp": 21,
-        "currentMaxHP": 21,
-        "ac": "13",
-        "currentAC": "13",
-<<<<<<< HEAD
-        "id": "ID_39382bd82a4b",
-=======
-        "id": "ID_789be888384a",
->>>>>>> origin/main
-        "currentHP": 21,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 3,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "BIG PAPA",
-        "initiative": 11,
+        "name": "Big Papa",
+        "initiative": 9,
         "static": false,
         "modifier": 0,
         "hp": 27,
         "currentMaxHP": 27,
         "ac": "16",
         "currentAC": "16",
-<<<<<<< HEAD
-        "id": "ID_6bfb7b992858",
-=======
-        "id": "ID_39cac8c8981a",
->>>>>>> origin/main
+        "id": "ID_daaaaa7b5b5b",
         "currentHP": 27,
         "tempHP": 0,
         "status": [],
@@ -215,19 +165,15 @@
         "friendly": false
       },
       {
-        "name": "MOMMY",
-        "initiative": 9,
+        "name": "Mommy",
+        "initiative": 12,
         "static": false,
         "modifier": 3,
         "hp": 24,
         "currentMaxHP": 24,
         "ac": "15",
         "currentAC": "15",
-<<<<<<< HEAD
-        "id": "ID_7a7938da7859",
-=======
-        "id": "ID_89c8181b2b28",
->>>>>>> origin/main
+        "id": "ID_fb9bcb9b8bca",
         "currentHP": 24,
         "tempHP": 0,
         "status": [],
@@ -239,30 +185,50 @@
         "friendly": false
       },
       {
-        "name": "Harpy",
-        "display": "Harpy",
-        "initiative": 6,
+        "name": "Bugwhere",
+        "initiative": 10,
         "static": false,
-        "modifier": 1,
-        "hp": 38,
-        "currentMaxHP": 38,
-        "cr": "1",
-        "ac": 11,
-        "currentAC": 11,
-        "id": "ID_1b69782b0b6a",
-        "currentHP": 38,
+        "modifier": 5,
+        "hp": 24,
+        "currentMaxHP": 24,
+        "ac": "14",
+        "currentAC": "14",
+        "note": "Untitled",
+        "path": "Untitled.canvas",
+        "id": "ID_ba9a4b7999ca",
+        "currentHP": 24,
         "tempHP": 0,
         "status": [],
         "enabled": true,
+        "level": 3,
+        "player": true,
         "active": false,
         "hidden": false,
-        "friendly": false,
-        "hit_dice": "7d8 + 6"
+        "friendly": false
+      },
+      {
+        "name": "Shortstack",
+        "initiative": 11,
+        "static": false,
+        "modifier": 0,
+        "hp": 21,
+        "currentMaxHP": 21,
+        "ac": "13",
+        "currentAC": "13",
+        "id": "ID_3b580aeabbba",
+        "currentHP": 21,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
       },
       {
         "name": "Harpy",
-        "display": "Harpy",
-        "initiative": 5,
+        "initiative": 12,
         "static": false,
         "modifier": 1,
         "hp": 38,
@@ -270,7 +236,7 @@
         "cr": "1",
         "ac": 11,
         "currentAC": 11,
-        "id": "ID_f8fb988869bb",
+        "id": "ID_2919eb1a4bc9",
         "currentHP": 38,
         "tempHP": 0,
         "status": [],
@@ -278,12 +244,12 @@
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "7d8 + 6"
+        "hit_dice": "7d8 + 6",
+        "rollHP": false
       },
       {
         "name": "Harpy",
-        "display": "Harpy",
-        "initiative": 8,
+        "initiative": 12,
         "static": false,
         "modifier": 1,
         "hp": 38,
@@ -291,7 +257,7 @@
         "cr": "1",
         "ac": 11,
         "currentAC": 11,
-        "id": "ID_0838fbc8399a",
+        "id": "ID_2b7aaa0bc87a",
         "currentHP": 38,
         "tempHP": 0,
         "status": [],
@@ -299,16 +265,38 @@
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "7d8 + 6"
+        "hit_dice": "7d8 + 6",
+        "rollHP": false
+      },
+      {
+        "name": "Harpy",
+        "initiative": 12,
+        "static": false,
+        "modifier": 1,
+        "hp": 38,
+        "currentMaxHP": 38,
+        "cr": "1",
+        "ac": 11,
+        "currentAC": 11,
+        "id": "ID_fa38a88ac849",
+        "currentHP": 38,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "7d8 + 6",
+        "rollHP": false
       }
     ],
     "state": false,
-    "name": null,
+    "name": "Encounter",
     "round": 1,
     "logFile": "",
     "rollHP": false
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
