@@ -1,0 +1,1 @@
+Ring toss. People throw the ring onto a large disc golf net. It randomly get spit out in a direction and hopes to land on one of the four rings. Rings and poles are magnetically opposed.

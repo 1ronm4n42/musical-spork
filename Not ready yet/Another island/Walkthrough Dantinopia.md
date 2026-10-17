@@ -11,7 +11,7 @@ Noir killing game style.
 7 Papa
 8 short
 9 Mom
-10 Bug
+10 Bugwhere
 
 Deaths happen until only those four are left. 
 First death involves a falling object.

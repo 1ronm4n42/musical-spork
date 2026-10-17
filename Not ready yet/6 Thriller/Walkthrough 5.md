@@ -4,6 +4,7 @@ Giant cogs and theme park rides scattered through the parks.
 (Make theme park map.)
 Introduce Nicklaus scare.
 He tips his hat and floats into the wall.
+Players separate. while map tecnecally players can reach eachother in 5 moves always.
 
 Games:
 Collect the Clown: clown parts and revivify diamond. Head in a box. To be placed together head last. It's Nicklaus.

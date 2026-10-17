@@ -1,0 +1,1 @@
+Umamusume except the horses dont like running. Their legs have been modified physically through law like fruit. Captured, separated through group. Gassed transformed and forced to run. Horse betting rules apply.

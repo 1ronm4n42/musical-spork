@@ -2,7 +2,7 @@ King of drum kingdom.
 
 FRENCH GUARD: Allo! Who is it? 
 
-FRENCH GUARD: This is the castle of my master, WAPOL Kadami.
+FRENCH GUARD: This is the castle of my master, WAPOL Bonelli.
 
 Asks doctor?
 

@@ -1,0 +1,1 @@
+Pigs are raced. All have genetic predisposition for nerve pain. You can create own pig with modifications. Screen edits it's genes. cloned in instant and races as full mature pigs. People resist revealing stratigies. 
