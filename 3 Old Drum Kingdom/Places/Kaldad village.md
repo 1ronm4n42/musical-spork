@@ -47,3 +47,6 @@ Potion of spryness
 1d6 younger. Adds strength boost +2
 
 **IF ANYONE IS ASKED FOR HELP WITH SICK PERSON THEY DIRECT TO CHOPPER. COULD BE OUT HELPING PEOPLE. LIVES AT BLOSSOM TREE.**
+
+Cyclone like prophet machine. All mechanical inside, no magic inside if questioned.
+Prophecies 

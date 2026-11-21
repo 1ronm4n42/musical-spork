@@ -1,4 +1,25 @@
 
+Notes on how to make this better
+
+Introduce the block and travel time. Block is 15 movements during the day 5 at night. Settle at 1 place at night. Activity is 2 movements.
+
+Went through zones 1/4 chance the zone activates
+
+If looked up through a tree. Describe mountain but nothing else. 
+
+Make a Basic map of the zone what only is visible.!
+
+Inside the purple zone can only ask visual questions directly to me
+
+Stone statue of a woman holding a puzzle. Clock on the chest 10 seconds.
+
+After they move from the purple zone they moved into the Artic Zone. Under the skeleton. Allow a sneak with success over 12. Not many people. Different outfits from the main military Base. The characters feel the compass' magic. pull by the tattoos. Nobody to see them. Indiana jones warning. If they are found they are questioned by the "Military" group
+
+Desire compass isnt named. just points to zones.
+
+If they go to the TK zone they dont find any openings.
+
+Any of the other points on the map are what they are.
 
 | Times | What happens during the times               |
 | ----- | ------------------------------------------- |
@@ -26,9 +47,9 @@
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 Artic Hideout  | A small camp with green tents pitched under the Giant skeleton. There is a central tent and some smaller ones around it. It seems like solid ground.<br>2 Wounded "soldiers"<br>3 Weapons room. Locked<br>4 Food and water stores.<br>5 Map of island.<br>6 Biggest. Compass. Map of island with numbers. NH# 0781<br>7 Room with a hole in it.<br>8 Trash<br>9 Bathrooms Clearly marked. <br>10 Beds. Most sleeping. | Meets the military. Biggest guy asks purpose. "No one comes here for fun."<br>Threatened by Electric magic.<br>imposing but turns up silly.<br>Any larger attempt to inquire about why is played off.<br>Desire compass per desire.<br>Scanty response "Compass to research island's phenominon."<br><br> |
 | 2 Tk colony      | A mound of dirt has a hidden tunnel that leads underground. Dirt covered walls. opens up into larger common area with dark tunnels reaching out into the oblivion. If entered during day they agress.<br>Bright mushrooms light up the center                                                                                                                                                                         | Shop with tools and potions. Queen habitat behind closed door.<br>                                                                                                                                                                                                                                        |
-| 3 Silent Zone    | Dark purple ground lacks any signs of life. It smells like burn wood. Stones are black.<br>Large stone statue presents a box with pieces separate. Humming noise if examined                                                                                                                                                                                                                                          | Puzzle without speaking to get Logpose Name scratched off                                                                                                                                                                                                                                                 |
+| 3 Silent Zone    | Dark purple ground lacks any signs of life. It smells like burn wood. Stones are black.<br>Large stone statue presents a box with pieces separate.                                                                                                                                                                                                                                                                    | Puzzle without speaking to get Logpose Name scratched off<br><br>"The passage of time brings wisdom and time. Pride takes time away from the believer"                                                                                                                                                    |
 | 4 Owlbear        | Depending on time of calander crew meets different sights.                                                                                                                                                                                                                                                                                                                                                            | Owlbear fight/helping                                                                                                                                                                                                                                                                                     |
-| 5 Giants camp    |                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                           |
+| 5 Giants camp    | You see a large clearing that has large empty barrels of food and half full barrel of wine. (Left for 7 years). Seat carved into bone large enough for giant to sit.                                                                                                                                                                                                                                                  | Nothing just worldbuilding.                                                                                                                                                                                                                                                                               |
 | X Cave           | Zenetrim hideout. At the far back there is two cages. Faerie on one side and on the other there is a stone golem.                                                                                                                                                                                                                                                                                                     | Neither will talk to players. illusion zone Transmutated wolves into characters.                                                                                                                                                                                                                          |
 
 
@@ -55,7 +76,8 @@
 |                                                |                            |
 |                                                |                            |
 
-Intro the island as green and dense. The kind of place you'd worry about getting a tick if venturing too deep into. Two enormous skeletons are on opposite sides of the island. Once ship is anchored at sea crew travels into the woods. 
+Intro the island as green and dense. The kind of place you'd worry about getting a tick if venturing too deep into. Two enormous skeletons are on opposite sides of the island. Once ship is anchored at sea crew is free to explore
+travels into the woods. 
 - First desert
 - then river
 - then tree house 
@@ -66,6 +88,7 @@ Intro the island as green and dense. The kind of place you'd worry about getting
 Nothing is tangible just visual.
 can still feel grass below
 Jungle like everywhere.
+What do you do? Can still see people as long as theyre not too far. 
 
 Thri kreen - Bipedal insectoid
 - Settled here 200 years ago
